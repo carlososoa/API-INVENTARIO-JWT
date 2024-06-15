@@ -3,7 +3,7 @@
 
 ## Informacion general
 ***
-### Proyecto desarrollado con node.js que implica una aplicación de inventarios
+### Proyecto desarrollado con node.js que implica una aplicación de inventarios, cuenta con autenticación utilizando JWT
 ***
 ## Tecnologias 
 ***
